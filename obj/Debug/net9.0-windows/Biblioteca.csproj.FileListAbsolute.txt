@@ -1,0 +1,17 @@
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.Form1.resources
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.AssemblyInfo.cs
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.sourcelink.json
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\bin\Debug\net9.0-windows\Biblioteca.exe
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\bin\Debug\net9.0-windows\Biblioteca.deps.json
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\bin\Debug\net9.0-windows\Biblioteca.runtimeconfig.json
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\bin\Debug\net9.0-windows\Biblioteca.dll
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\bin\Debug\net9.0-windows\Biblioteca.pdb
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.dll
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\refint\Biblioteca.dll
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.pdb
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\Biblioteca.genruntimeconfig.cache
+C:\Users\Navegador\source\repos\Practica-2-Parcial-Desarrollo-Arquitectura-de-Software\obj\Debug\net9.0-windows\ref\Biblioteca.dll
