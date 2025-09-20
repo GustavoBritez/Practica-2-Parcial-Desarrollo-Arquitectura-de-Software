@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Biblioteca>
+  <Estudiantes>
+    <Estudiante>
+      <Legajo>2001</Legajo>
+      <Nombre>Juan</Nombre>
+    </Estudiante>
+    <Estudiante>
+      <Legajo>2002</Legajo>
+      <Nombre>María</Nombre>
+    </Estudiante>
+    <Estudiante>
+      <Legajo>2003</Legajo>
+      <Nombre>Sofía</Nombre>
+    </Estudiante>
+  </Estudiantes>
+  <Estudiante>
+    <Legajo>2004</Legajo>
+    <Nombre>Marcos</Nombre>
+  </Estudiante>
+  <Libros>
+    <Libro>
+      <ID>1</ID>
+      <Titulo>C# Avanzado</Titulo>
+    </Libro>
+    <Libro>
+      <ID>2</ID>
+      <Titulo>Bases de Datos</Titulo>
+    </Libro>
+    <Libro>
+      <ID>3</ID>
+      <Titulo>Redes de Computadoras</Titulo>
+    </Libro>
+  </Libros>
+  <Prestamos>
+    <Prestamo>
+      <Legajo>2001</Legajo>
+      <ID>1</ID>
+      <Estado>Devuelto</Estado>
+    </Prestamo>
+    <Prestamo>
+      <Legajo>2001</Legajo>
+      <ID>2</ID>
+      <Estado>Pendiente</Estado>
+    </Prestamo>
+    <Prestamo>
+      <Legajo>2002</Legajo>
+      <ID>3</ID>
+      <Estado>Pendiente</Estado>
+    </Prestamo>
+  </Prestamos>
+  <Prestamo>
+    <Legajo>2004</Legajo>
+    <ID>1</ID>
+    <Estado>Pendiente</Estado>
+  </Prestamo>
+</Biblioteca>
